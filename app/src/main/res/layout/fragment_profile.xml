@@ -66,53 +66,48 @@
                 android:textSize="20sp"
                 android:layout_gravity="center"
                 android:layout_marginTop="20dp"/>
-            <LinearLayout
-                android:layout_width="wrap_content"
+            <EditText
+                android:layout_width="350dp"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
-                <EditText
-                    android:layout_width="350dp"
-                    android:layout_height="wrap_content"
-                    android:hint="Change Profile Image"
-                    android:textColorHint="#BAD5CECE"
-                    android:layout_marginTop="25dp"
-                    android:layout_marginStart="20dp"
-                    android:id="@+id/editTextProfileImageUrl"/>
+                android:hint="Change Profile Image"
+                android:textColorHint="#BAD5CECE"
+                android:layout_marginTop="25dp"
+                android:layout_marginStart="20dp"
+                android:id="@+id/editTextProfileImageUrl"/>
 
-            </LinearLayout>
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:layout_gravity="center"
                 android:orientation="vertical">
 
                 <Button
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:text="Upload"
-                    android:layout_marginStart="25dp"
                     android:id="@+id/buttonUpload"
                     android:backgroundTint="#009688"/>
 
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
+                    android:layout_marginTop="40dp"
                     android:orientation="horizontal">
 
                     <Button
                         android:id="@+id/buttonChangePasswordLogin"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="25dp"
+
                         android:backgroundTint="#009688"
                         android:text="Change password"
-                        android:layout_marginTop="40dp"/>
+                        />
 
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Sign out"
                         android:layout_marginStart="30dp"
-                        android:layout_marginTop="20dp"
                         android:backgroundTint="@color/red"
                         android:id="@+id/buttonSignOut"
                         android:layout_gravity="center"

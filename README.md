@@ -4,7 +4,7 @@ Gijivit is an android application which helps users to  get the wanted physique.
 App uses Firebase authentication and Firebase Realtime Database services.
 
 Once you open the application you must register or log into your account.
-In order to register you are required to input your name, surname, E-mail and 
+In order to register you must input your name, surname, E-mail and 
 preferred password.
 
 # Profile Page

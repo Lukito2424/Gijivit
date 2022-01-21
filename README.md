@@ -25,4 +25,4 @@ Your posts will appear on feed page where you can also see other peoples progres
 
 # Feed Page
 
-At last - Feed page you can check out Your and other people's personal progress.
+At last Feed page - you can check out Your and other people's personal progress.

@@ -7,6 +7,9 @@ Once you open the application you must register or log into your account.
 In order to register you must input your name, surname, E-mail and 
 preferred password.
 
+![Alt text](https://i.imgur.com/Jsw5msq.png) 
+![Alt text](https://i.imgur.com/tus8a5x.png) 
+
 # Profile Page
 
 After logging in you are redirected to profile page, where you can upload 

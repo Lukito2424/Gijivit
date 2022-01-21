@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:text="Saxeli Gvari"
-        android:textColor="#0B0909"
+        android:textColor="#fffacd"
         app:layout_constraintBottom_toBottomOf="@+id/imageViewPfp"
         app:layout_constraintStart_toEndOf="@+id/imageViewPfp"
         app:layout_constraintTop_toTopOf="@+id/imageViewPfp" />

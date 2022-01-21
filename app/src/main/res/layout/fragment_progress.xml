@@ -18,7 +18,7 @@
         android:shadowRadius="10"
         android:text="Share your progress"
         android:textColor="#FFC107"
-        android:textSize="35sp"
+        android:textSize="32sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
